@@ -1,3 +1,9 @@
+Description:,Celsius-based heating degree days for a base temperature of 15.5C,
+Source:,www.degreedays.net (using temperature data from www.wunderground.com),
+Accuracy:,"Estimates were made to account for missing data: the ""% Estimated"" column shows how much each figure was affected (0% is best 100% is worst)",
+Station:,"Buctouche Cda Cs, NB, CA (64.77W,46.43N)",
+Station ID:,CABT,
+,,
 Date,HDD,% Estimated
 2/1/2015,28.1,8
 2/2/2015,36.1,8
